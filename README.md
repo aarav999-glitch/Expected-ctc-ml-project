@@ -1,8 +1,3 @@
-# Expected-ctc-ml-project
-Absolutely ✅ Here’s a clean, professional, and well-structured **README.md** file for your GitHub repository:
-
----
-
 # 💼 Expected CTC Prediction Using Machine Learning
 
 ## 📘 Project Overview
