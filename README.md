@@ -135,8 +135,5 @@ Their structured training and hands-on learning environment played a vital role 
 **Aarav Goel**
 B.Tech in Computer Science – **SRM University**
 Machine Learning Specialization
-📧 [Your Email Here] | 🌐 [LinkedIn Profile Link Here]
 
----
 
-Would you like me to create a matching **`requirements.txt`** (with all necessary Python libraries) so it’s ready for GitHub upload?
